@@ -11,8 +11,11 @@ public class DemoA {
 		System.out.println("MORE Stuff");
 	}
 	public static void add(int d, int b) {
-		System.out.println(d + b);
-		
+		System.out.println(d + b);	
+	}
+	//coming from GitHub
+	public static void subtract(int d, int b) {
+		System.out.println(d - b);
 		
 	}
 }
